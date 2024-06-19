@@ -2,22 +2,25 @@
 
 # TaskTracker: Optimizing Your Academic Journey
 
-
 <div align="right">
-  <img src="https://media.licdn.com/dms/image/D4E12AQH8WQ0SWTIDFw/article-cover_image-shrink_720_1280/0/1703438987788?e=2147483647&v=beta&t=-5HhTBG1N0-6KXhWbfulT2mGn1CW9mtHDcgNhnrOC2E" alt="Cloud Image" height = "200" width="400">
+  <img src="https://media.licdn.com/dms/image/D4E12AQH8WQ0SWTIDFw/article-cover_image-shrink_720_1280/0/1703438987788?e=2147483647&v=beta&t=-5HhTBG1N0-6KXhWbfulT2mGn1CW9mtHDcgNhnrOC2E" alt="Cloud Image" height="200" width="400">
 </div>
 
 ## Table of Contents
 
 - [TaskTracker: Optimizing Your Academic Journey](#tasktracker-optimizing-your-academic-journey)
-   - [Description](#tasktracker-description)
+  - [TaskTracker Description](#tasktracker-description)
+  - [Tutorial](#tutorial)
   - [Features](#features)
   - [Non-Functional Requirements](#non-functional-requirements)
   - [Getting Started](#getting-started)
   - [Dependencies](#dependencies)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [UML](#uml)
+  - [Change Log](#change-log)
   - [Roadmap](#roadmap)
+  - [Application Progress](#application-progress)
   - [Contributing](#contributing)
   - [Authors](#authors)
   - [License](#license)
@@ -41,25 +44,21 @@ With TaskTracker, academic success becomes not just a goal but a tangible realit
 
 <img src="https://creadigme.net/static/company_multitask-31aaef22aad2ad6cd61c79771517d3e9.gif"/>
 
+## Tutorial
 
-  ## Tutorial
 Click the button below to watch a tutorial video.
 
 <div align="left">
   <img src="https://media3.giphy.com/media/rrOif8vmuM6g05Zha5/giphy.gif?cid=6c09b9525yudzzl1gio0aotte4jpryu1uy7dlflc01rk9s3i&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Cloud Image" width="300">
 </div>
 
-
 <a href="https://youtu.be/eUV-osuKPpE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Icon">
 </a>
-<p>
-  OR (preferrably for quality)
-</p>
+<p>OR (preferably for quality)</p>
 <a href="https://www.loom.com/share/d1c04e691a3c4d1ca329ad0ccf7165b7?sid=25813b4f-5b48-4850-8881-0d23458c6a44" target="_blank">
   <img src="https://img.shields.io/badge/Loom-800080?style=for-the-badge&logo=loom&logoColor=white" alt="Loom Icon">
 </a>
-
 
 ## Features
 
@@ -100,7 +99,7 @@ Get up and running with TaskTracker in a few simple steps:
 4. **Build the Solution:** Ensure all dependencies are resolved.
 5. **Configure Connection String:** Add the connection string configuration.
 6. **Configure Library:** Open up the MVCLibrary.sln provided to you here on Github then build it.
-7. **Add Library:** Right-click on dependancies and press 'Add' then select the MVCLibrary.dll.
+7. **Add Library:** Right-click on dependencies and press 'Add' then select the MVCLibrary.dll.
 8. **Run the Application:** Fire up the application and dive into efficient time management.
 
 <img src="https://media1.giphy.com/media/uiJaiE2FxSH9SCyWsX/source.gif" width="300"/>
@@ -178,12 +177,49 @@ In this significant update, TaskTracker has undergone substantial improvements a
 
 TaskTracker Version 3.0 marks a transformative step forward, embracing modern technologies and refining functionality to better meet the needs of users striving for academic success.
 
+<div align="right">
+<img src="https://blog.fnp.com/wp-content/uploads/2020/10/2-2.gif" width="260"/>
+</div>
 
 ## Roadmap
 
-Exciting plans are in store for TaskTracker's future:
+- [x] Intuitive Interface
+- [x] Robust Data Persistence
+- [x] User Authentication
+- [x] Add Modules
+- [x] Set Semester Duration
+- [x] Calculate Self-Study Hours
+- [x] Record Study Hours
+- [x] Track Remaining Self-Study Hours
+- [x] Data Persistence
+- [x] Reminders Functionality
+- [ ] Cloud Integration
+- [ ] Mobile App Development
+- [ ] Advanced Analytics
+- [ ] AI-Powered Study Recommendations
 
-- **Cloud Integration:** Further integration with cloud services for enhanced accessibility.
+## Application Progress
+
+visualisation the progress of the project:
+
+```plaintext
+Feature                        | Progress
+------------------------------ | ---------------------------------
+Intuitive Interface            | █████████████████████████ 100%
+Robust Data Persistence        | █████████████████████████ 100%
+User Authentication            | █████████████████████████ 100%
+Add Modules                    | █████████████████████████ 100%
+Set Semester Duration          | █████████████████████████ 100%
+Calculate Self-Study Hours     | █████████████████████████ 100%
+Record Study Hours             | █████████████████████████ 100%
+Track Remaining Self-Study Hours| █████████████████████████ 100%
+Data Persistence               | █████████████████████████ 100%
+Reminders Functionality        | █████████████████████████ 100%
+Cloud Integration              | ██████                   30%
+Mobile App Development         | █████                    20%
+Advanced Analytics             | ████                     10%
+AI-Powered Study Recommendations| ██                      10%
+```
 
 ## Contributing
 
