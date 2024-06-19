@@ -1,8 +1,10 @@
+![tasktracker](https://github.com/noturlee/TaskTracker-MVC/assets/100778149/6c2e4dad-f736-410e-bae3-9ec0c723c8df)
+
 # TaskTracker: Optimizing Your Academic Journey
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/TIAxjtLN)
+
 <div align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif" alt="Cloud Image" height = "200" width="400">
+  <img src="https://media.licdn.com/dms/image/D4E12AQH8WQ0SWTIDFw/article-cover_image-shrink_720_1280/0/1703438987788?e=2147483647&v=beta&t=-5HhTBG1N0-6KXhWbfulT2mGn1CW9mtHDcgNhnrOC2E" alt="Cloud Image" height = "200" width="400">
 </div>
 
 ## Table of Contents
@@ -37,6 +39,7 @@ TaskTracker goes beyond conventional task management. It empowers you to take co
 
 With TaskTracker, academic success becomes not just a goal but a tangible reality. Elevate your educational experience, stay ahead in your coursework, and confidently tackle your academic challenges with TaskTracker by your side.
 
+<img src="https://creadigme.net/static/company_multitask-31aaef22aad2ad6cd61c79771517d3e9.gif"/>
 
 
   ## Tutorial
@@ -99,6 +102,8 @@ Get up and running with TaskTracker in a few simple steps:
 6. **Configure Library:** Open up the MVCLibrary.sln provided to you here on Github then build it.
 7. **Add Library:** Right-click on dependancies and press 'Add' then select the MVCLibrary.dll.
 8. **Run the Application:** Fire up the application and dive into efficient time management.
+
+<img src="https://media1.giphy.com/media/uiJaiE2FxSH9SCyWsX/source.gif" width="300"/>
 
 ## Dependencies
 
